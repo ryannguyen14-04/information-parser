@@ -1,6 +1,4 @@
-# passport_checker.py
-# ENGR 102 – Lab Topic 11A
-# Passport Checker
+
 
 REQUIRED_FIELDS = ["byr", "iyr", "eyr", "hgt", "hcl", "pid", "cid"]
 # ecl is optional
@@ -47,3 +45,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
